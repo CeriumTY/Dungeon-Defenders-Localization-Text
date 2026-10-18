@@ -1,0 +1,177 @@
+Dungeon Defenders 简体中文本地化术语对照表
+来源：main-INT；目标分支：CHS
+状态：第一版术语标准；尚未穷尽全部装备、宠物、地名及文本典故。
+注意：只翻译显示文本；不修改键名、节名、文件路径、占位符、标签和原始文件编码。
+注意：Etheria 与 Eternia 是不同的原文专名；按上下文区分。
+
+【世界观与机制】
+Dungeon Defenders = 地牢守护者
+Etheria = 艾瑟利亚
+Eternia = 永恒
+Eternia Crystal = 永恒水晶
+Eternia Shard = 永恒碎片
+Crystal Core = 水晶核心
+Mana = 魔力
+Defender's Forge = 守护者锻炉
+Tavern = 酒馆
+Defense = 防御设施
+Defenses = 防御设施
+Defense Units = 防御点数
+Minion Units = 召唤点数
+Hero = 英雄
+Minion = 召唤单位
+Survival = 生存模式
+Mix Mode = 混合模式
+Build Phase = 建造阶段
+Combat Phase = 战斗阶段
+Wave = 波次
+
+【英雄职业】
+Apprentice = 法师学徒
+Squire = 见习骑士
+Huntress = 女猎手
+Monk = 武僧
+Adept = 奥术师
+Countess = 女伯爵
+Ranger = 游侠
+Initiate = 修行者
+Barbarian = 野蛮人
+Series EV = EV系列
+Summoner = 召唤师
+Jester = 小丑
+Gunwitch = 枪械女巫
+Hermit = 隐士
+Warden = 守林者
+
+【品质与难度】
+Cursed = 诅咒
+Torn = 破损
+Worn = 磨损
+Stocky = 粗实
+Solid = 坚实
+Sturdy = 结实
+Polished = 精制
+Shining = 闪耀
+Powerful = 强力
+Amazing = 惊奇
+Epic = 史诗
+Legendary = 传说
+Godly = 神圣
+Mythical = 神话
+Transcendent = 超凡
+Supreme = 至尊
+Ultimate = 终极
+Ultimate+ = 终极+
+Ultimate++ = 终极++
+Easy = 简单
+Medium = 中等
+Hard = 困难
+Insane = 疯狂
+Nightmare = 噩梦
+Ruthless = 无情
+
+【敌人和首领】
+Goblin = 哥布林
+Orc = 兽人
+Ogre = 食人魔
+Kobold = 狗头人
+Wyvern = 飞龙
+Fish-Wyvern = 鱼龙
+Djinn = 灯神
+Dark Elf Archer = 黑暗精灵弓箭手
+Dark Elf Warrior = 黑暗精灵战士
+Dark Elf Mage = 黑暗精灵法师
+Goblin Mech = 哥布林机甲
+Goblin Copter = 哥布林直升机
+Spider Queen = 蜘蛛女王
+Genie King = 灯神之王
+Kraken = 克拉肯
+Ancient Dragon = 远古巨龙
+Harbinger = 先驱者
+Old One = 旧日之主
+Mini-Ogre = 小型食人魔
+Crazy Kobold = 疯狂狗头人
+Skeleton = 骷髅
+Spider = 蜘蛛
+Demon = 恶魔
+
+【防御设施】
+Magic Blockade = 魔法路障
+Spike Blockade = 尖刺路障
+Bouncer Blockade = 弹跳路障
+Magic Missile Tower = 魔法飞弹塔
+Fireball Tower = 火球塔
+Deadly Striker Tower = 致命狙击塔
+Harpoon Turret = 鱼叉炮塔
+Bowling Ball Turret = 保龄球炮塔
+Lightning Tower = 闪电塔
+Gas Trap = 毒气陷阱
+Inferno Trap = 炼狱陷阱
+Darkness Trap = 黑暗陷阱
+Ethereal Spike Trap = 虚灵尖刺陷阱
+Proximity Mine Trap = 感应地雷陷阱
+Electric Aura = 电击光环
+Enrage Aura = 激怒光环
+Healing Aura = 治疗光环
+Ensnare Aura = 减速光环
+Strength Drain Aura = 力量削弱光环
+Tower Buff Beam = 防御强化光束
+Proton Beam = 质子光束
+Shock Beam = 电击光束
+Projectile Reflection Beam = 弹射物反射光束
+Physical Beam = 实体光束
+Mortar Turret = 迫击炮塔
+Oil Trap = 油污陷阱
+
+【技能与状态】
+Mana Bomb = 魔力炸弹
+Overcharge = 超载
+Piercing Shot = 穿透射击
+Shadow Step = 暗影步
+Invisibility = 隐身
+Hero Boost = 英雄增幅
+Defense Boost = 防御增幅
+Tower Boost = 防御增幅
+Blood Rage = 血之狂怒
+Circular Slice = 环形斩
+Battle Leap = 战斗飞跃
+Battle Pound = 战斗重击
+Hawk Stance = 雄鹰姿态
+Siphon Stance = 汲取姿态
+Turtle Stance = 龟甲姿态
+Tornado Stance = 龙卷姿态
+Lightning Stance = 闪电姿态
+Flash Heal = 瞬间治疗
+Phase Shift = 相位转移
+Move Tower = 移动防御塔
+Wheel O' Fortuna = 命运转盘
+Call to Arms = 战斗号召
+Joust = 突刺
+Enemy Drain = 敌军削弱
+Purity Bomb = 净化炸弹
+Proton Charge Blast = 质子蓄能爆破
+Holographic Decoy = 全息诱饵
+Thorn Shot = 荆棘射击
+Nature's Gift = 自然馈赠
+Nature’s Gift = 自然馈赠
+Wrath = 愤怒
+Forest's Protection = 森林庇护
+
+【战役关卡】
+The Deeper Well = 深井
+Foundries and Forges = 铸造厂与熔炉
+Magus Quarters = 大法师居所
+Alchemical Laboratory = 炼金实验室
+Servants Quarters = 仆人居所
+Castle Armory = 城堡军械库
+Hall of Court = 王庭大厅
+The Throne Room = 王座大厅
+Royal Gardens = 皇家花园
+The Ramparts = 城墙
+Endless Spires = 无尽尖塔
+The Summit = 峰顶
+Glitterhelm Caverns = 闪耀头盔洞窟
+Akatiti Jungle = 阿卡蒂蒂丛林
+Aquanos = 阿夸诺斯
+Sky City = 天空之城
+Palantir = 帕兰蒂尔
